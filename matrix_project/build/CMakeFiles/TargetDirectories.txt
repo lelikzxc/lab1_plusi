@@ -1,0 +1,3 @@
+C:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/matrix_project/build/CMakeFiles/matrix_program.dir
+C:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/matrix_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/matrix_project/build/CMakeFiles/ZERO_CHECK.dir

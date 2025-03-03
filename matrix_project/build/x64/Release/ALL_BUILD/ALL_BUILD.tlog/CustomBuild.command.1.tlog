@@ -1,0 +1,10 @@
+^C:\USERS\TRYTO\ONEDRIVE\РАБОЧИЙ СТОЛ\СЕМИНАРЫ ИНФА\ПЛЮСЫ\2 СЕМЕСТР\LAB1\MATRIX_PROJECT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/matrix_project" "-BC:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/matrix_project/build" --check-stamp-file "C:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/matrix_project/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
