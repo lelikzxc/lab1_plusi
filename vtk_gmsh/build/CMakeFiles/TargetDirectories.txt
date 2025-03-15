@@ -1,0 +1,4 @@
+/mnt/c/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/vtk_gmsh/build/CMakeFiles/simple.dir
+/mnt/c/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/vtk_gmsh/build/CMakeFiles/challenging.dir
+/mnt/c/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/vtk_gmsh/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/vtk_gmsh/build/CMakeFiles/rebuild_cache.dir
